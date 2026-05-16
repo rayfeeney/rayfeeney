@@ -1,8 +1,8 @@
-## 👋 Hi, I'm building OrchidApp
+## Hi, I'm building OrchidApp
 
 I build systems that prioritise **correctness, determinism, and long-term reliability**.
 
-### 🌱 OrchidApp
+### OrchidApp
 
 A self-hosted orchid collection manager designed for **data integrity, not convenience**.
 
@@ -14,7 +14,7 @@ A self-hosted orchid collection manager designed for **data integrity, not conve
 This is not a CRUD app.
 This is a system with guarantees.
 
-🔗 https://github.com/<your-username>/OrchidApp
+[OrchidApp](https://github.com/rayfeeney/OrchidApp)
 
 ---
 
@@ -34,3 +34,11 @@ This is a system with guarantees.
 * EF Core
 * Linux / Raspberry Pi
 * PowerShell automation
+
+---
+
+### Target OS
+
+* ![Windows x64](https://img.shields.io/badge/Windows-x64-blue?logo=windows)
+* ![Raspberry Pi OS ARM64](https://img.shields.io/badge/Raspberry%20Pi%20OS-ARM64-C51A4A?logo=raspberrypi)
+* Future development ![macOS Apple Silicon](https://img.shields.io/badge/macOS-Apple%20Silicon-black?logo=apple)
